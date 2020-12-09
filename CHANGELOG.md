@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.20.0] - 2020-12-09
 
+### Changed
+
+- Update to Kubernetes 1.20.0.
+
 ## [1.19.4] - 2020-12-09
 
 ### Added
