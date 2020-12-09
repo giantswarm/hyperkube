@@ -7,6 +7,7 @@ workflows:
   test:
     jobs:
       - architect/push-to-docker:
+          context: architect
           name: push-to-quay
           image: "quay.io/giantswarm/hyperkube"
           username_envar: "QUAY_USERNAME"
