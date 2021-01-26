@@ -9,11 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.19.6] - 2021-01-26
+
 ## [1.19.4] - 2020-12-09
 
 ### Added
 
 - Set up repository, docker image, and CI.
 
-[Unreleased]: https://github.com/giantswarm/hyperkube/compare/v1.19.4...HEAD
+[Unreleased]: https://github.com/giantswarm/hyperkube/compare/v1.19.6...HEAD
+[1.19.6]: https://github.com/giantswarm/hyperkube/compare/v1.19.4...v1.19.6
 [1.19.4]: https://github.com/giantswarm/hyperkube/releases/tag/v1.19.4
